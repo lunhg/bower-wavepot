@@ -1,0 +1,26 @@
+{
+  "name": "bower-wavepot",
+  "authors": [
+    "lunhg@gmail.com"
+  ],
+  "description": "wavepot plugin for bower",
+  "main": "assets/js/wavepot-runtime.js",
+  "keywords": [
+    "wavepot",
+    "dsp",
+    "webaudio"
+  ],
+  "license": "CC 4.0",
+  "homepage": "lunhg.github.io/bower-wavepot",
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/lungh/bower-wavepot.git"
+  }
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
